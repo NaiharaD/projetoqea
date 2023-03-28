@@ -6,7 +6,7 @@
 
 <h1 align="center">Perguntas e Respostas</h1>
 
-<p align="center">Projeto desenvolvido na aula da UC12 do curso de Técnico de Informática do SENAC de três corações</p>
+<p align="center">Projeto desenvolvido na aula da UC12 do curso de Técnico de Informática do SENAC de Três Corações</p>
 
 <h1><p align="label">💻 Sobre o projeto</p></h1>
 
@@ -25,6 +25,7 @@ EJS<br>
  
 
 <h1>🚀Como executar o projeto</h1>
+
 
 
 

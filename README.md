@@ -27,7 +27,16 @@ EJS<br>
 <h1>🚀Como executar o projeto</h1>
 
 
+```bash
+# Comandos no terminal
 
+# Instale as dependências
+$ npm install
+
+# Execute a aplicação
+$ npm run dev
+
+```
 
 
 

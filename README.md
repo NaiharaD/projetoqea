@@ -27,7 +27,7 @@ EJS<br>
 <h1>🚀Como executar o projeto</h1>
 Clone o Projeto:
 
-   "git clone https://github.com/queimarosca/projetoqea.git"
+   "git clone"
 
    Entre no diretório do projeto:
 

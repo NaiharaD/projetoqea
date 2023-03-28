@@ -25,18 +25,35 @@ EJS<br>
  
 
 <h1>🚀Como executar o projeto</h1>
+Clone o Projeto:
+
+   "git clone https://github.com/queimarosca/projetoqea.git"
+
+   Entre no diretório do projeto:
+
+   "cd projeto-pergunta-main"
+
+   Instale as dependências:
+
+   "npm install"
+
+   Configure o banco de dados:
+
+   "DB_NAME = "projeto"
+
+USER = "root"
+
+PASSWORD = ""
+
+HOST = "localhost"
+
+PORT = "3306"
+
+"    Inicie o projeto:
+
+"npm run dev"
 
 
-```bash
-# Comandos no terminal
-
-# Instale as dependências
-$ npm install
-
-# Execute a aplicação
-$ npm run dev
-
-```
 
 
 
